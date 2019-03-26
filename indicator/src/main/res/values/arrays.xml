@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string-array name="bottom_indicator">
+    <item>首页</item>
+    <item>咨询</item>
+    <item>我的</item>
+  </string-array>
+
+  <integer-array name="bottom_indicator_bg">
+    <item>@drawable/selector_icon_home</item>
+    <item>@drawable/selector_icon_service</item>
+    <item>@drawable/selector_icon_mine</item>
+  </integer-array>
+
+  <string-array name="consultation_title_tabs">
+    <item>咨询</item>
+    <item>服务</item>
+  </string-array>
+  <string-array name="article_tabs">
+    <item>文章</item>
+    <item>案例</item>
+  </string-array>
+
+  <string-array name="service_tabs">
+    <item>请求服务</item>
+    <item>我的服务</item>
+    <item>全部服务</item>
+  </string-array>
+
+  <string-array name="service_tabs_with_opts">
+    <item>我的服务</item>
+    <item>全部服务</item>
+  </string-array>
+
+  <string-array name="consultation_tabs">
+    <item>发起咨询</item>
+    <item>我的咨询</item>
+    <item>全部回答</item>
+  </string-array>
+
+  <string-array name="collect_tabs">
+    <item>热门文章</item>
+    <item>案例分析</item>
+    <item>咨询与服务</item>
+  </string-array>
+
+  <string-array name="order_tabs">
+    <item>全部订单</item>
+    <item>待支付</item>
+    <item>已支付</item>
+  </string-array>
+
+  <string-array name="consultation_tabs_with_opts">
+    <item>我的咨询</item>
+    <item>全部咨询</item>
+  </string-array>
+
+  <string-array name="more_article_tabs">
+    <item>热门文章</item>
+    <item>案例分析</item>
+  </string-array>
+
+  <string-array name="question_classic_group_one">
+    <item>合同</item>
+    <item>劳动争议</item>
+    <item>股权</item>
+    <item>知识产权</item>
+    <item>债权债务</item>
+    <item>财务税务</item>
+    <item>行政诉讼</item>
+    <item>刑事</item>
+  </string-array>
+
+  <string-array name="question_classic_group_two">
+    <item>交通事故</item>
+    <item>婚姻家庭</item>
+    <item>房屋土地</item>
+    <item>人身伤害</item>
+    <item>315权益</item>
+    <item>保险理赔</item>
+    <item>其他</item>
+  </string-array>
+
+  <string-array name="question_classic_group_all">
+    <item>合同</item>
+    <item>劳动争议</item>
+    <item>股权</item>
+    <item>知识产权</item>
+    <item>债权债务</item>
+    <item>财务税务</item>
+    <item>行政诉讼</item>
+    <item>刑事</item>
+    <item>交通事故</item>
+    <item>婚姻家庭</item>
+    <item>房屋土地</item>
+    <item>人身伤害</item>
+    <item>315权益</item>
+    <item>保险理赔</item>
+  </string-array>
+  
+  <string-array name="service_general">
+    <item>写合同</item>
+    <item>申合同</item>
+    <item>发公司函</item>
+    <item>发律师函</item>
+    <item>委托律师</item>
+  </string-array>
+
+  <string-array name="service_little_enterprise">
+    <item>合同</item>
+    <item>劳动争议</item>
+    <item>债权债务</item>
+    <item>知识产权</item>
+    <item>股权</item>
+    <item>常年法律服务</item>
+  </string-array>
+
+  <string-array name="all_consultation">
+    <item>全部</item>
+    <item>合同</item>
+    <item>劳动争议</item>
+    <item>股权</item>
+    <item>知识产权</item>
+    <item>债权债务</item>
+    <item>财务税务</item>
+    <item>行政诉讼</item>
+    <item>刑事</item>
+    <item>交通事故</item>
+    <item>婚姻家庭</item>
+    <item>房屋土地</item>
+    <item>人身伤害</item>
+    <item>315权益</item>
+    <item>保险理财</item>
+  </string-array>
+  <string-array name="all_service">
+    <item>全部</item>
+    <item>写合同</item>
+    <item>审合同</item>
+    <item>发公司函</item>
+    <item>发律师函</item>
+    <item>委托律师</item>
+    <item>合同</item>
+    <item>劳动争议</item>
+    <item>债权债务</item>
+    <item>知识产权</item>
+    <item>股权</item>
+    <item>常年法律顾问</item>
+  </string-array>
+
+  <string-array name="unkown_type">
+    <item>不清楚类别,点这里</item>
+  </string-array>
+
+  <string-array name="collect_opts">
+    <item>删除</item>
+    <item>置顶</item>
+    <item>更新</item>
+  </string-array>
+
+
+  <string-array name="enterprise_phase">
+    <item>孵化器</item>
+    <item>初创期</item>
+    <item>发展期</item>
+    <item>成熟期</item>
+  </string-array>
+  <integer-array name="enterprise_phase_code"><!--与上面的阶段是一一对应关系-->
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+  </integer-array>
+
+  <string-array name="enterprise_position">
+    <item>HR</item>
+    <item>法务</item>
+    <item>行政</item>
+    <item>高管</item>
+    <item>BOSS</item>
+    <item>其他</item>
+  </string-array>
+  <integer-array name="enterprise_position_code"><!--与上面的是职位是一一对应关系-->
+    <item>1</item>
+    <item>2</item>
+    <item>3</item>
+    <item>4</item>
+    <item>5</item>
+    <item>6</item>
+  </integer-array>
+
+  <integer-array name="collect_bgs">
+    <item>@color/Green</item>
+    <item>@color/Blue</item>
+    <item>@color/Yellow</item>
+  </integer-array>
+</resources>

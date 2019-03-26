@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="BottomIndicator">
+    <attr name="indic_tag_names" format="reference"/>
+    <attr name="indic_tag_background" format="reference"/>
+    <attr name="indic_tag_unsel_color" format="color"/>
+    <attr name="indic_tag_sele_color" format="color"/>
+  </declare-styleable>
+
+</resources>

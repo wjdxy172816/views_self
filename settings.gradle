@@ -1,1 +1,1 @@
-include ':app', ':content', ':progress', ':clock', ':utils', ':state', ':grade'
+include ':app', ':content', ':progress', ':clock', ':utils', ':state', ':grade', ':indicator'
