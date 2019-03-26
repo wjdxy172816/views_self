@@ -14,4 +14,10 @@
     <attr name="fold_text_content" format="string"/><!--内容-->
   </declare-styleable>
 
+  <declare-styleable name="ClickableTextView">
+    <attr name="clickable_click_text_color" format="color" />
+    <attr name="clickable_pre_suffix_text" format="string" />
+    <attr name="clickable_end_suffix_text" format="string" />
+  </declare-styleable>
+
 </resources>
