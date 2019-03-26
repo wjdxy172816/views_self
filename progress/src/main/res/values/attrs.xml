@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="ImageUploadProgressView">
+    <attr name="image_progress_imgs" format="reference"/>
+    <attr name="image_text_size" format="dimension"/>
+    <attr name="image_text_color" format="color"/>
+    <attr name="image_text_over" format="string"/>
+    <attr name="image_text_loading" format="string"/>
+    <attr name="image_text_wait" format="string"/>
+    <attr name="image_text_interval" format="float"/><!--两行文字之间的间距，是一行文字的高度的多少倍-->
+
+  </declare-styleable>
+</resources>

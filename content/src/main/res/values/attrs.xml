@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="FoldableTextView">
+    <attr name="fold_text_content_size" format="dimension"/><!--字体尺寸-->
+    <attr name="fold_text_content_color" format="color"/><!--内容的颜色-->
+    <attr name="fold_text_critical_hiden_line_count" format="integer"/><!--超过多少行就隐藏-->
+    <attr name="fold_text_space_internal" format="float"/><!--行间距，多少倍文字高度-->
+    <attr name="fold_text_tag_color" format="color"/><!--标签颜色-->
+    <attr name="fold_text_show_close" format="boolean"/><!--是否显示收起的选项-->
+    <attr name="fold_text_show_all" format="boolean"/><!--是否默认显示完全-->
+    <attr name="fold_text_show_text" format="string"/><!--显示tag的文字-->
+    <attr name="fold_text_hiden_text" format="string"/><!--隐藏tag的文字-->
+    <attr name="fold_text_content" format="string"/><!--内容-->
+  </declare-styleable>
+
+</resources>
