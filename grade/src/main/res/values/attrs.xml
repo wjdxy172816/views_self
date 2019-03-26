@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="GradeStarView">
+    <attr name="star_def" format="reference"/><!--未选中星星的样式-->
+    <attr name="star_select" format="reference"/><!--被选中星星的样式-->
+    <attr name="star_count" format="integer"/><!--星星的总共数量-->
+    <attr name="star_space" format="dimension"/><!--每颗星星之间的间隔距离-->
+    <attr name="star_grade" format="float"/><!--评分,0到count之间的浮点数-->
+  </declare-styleable>
+
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+  <declare-styleable name="SpeakView">
+    <attr name="speak_width" format="dimension"/>
+    <attr name="speak_height" format="dimension"/>
+    <attr name="speak_diameter_inner" format="dimension"/>
+    <attr name="speak_diameter_outter" format="dimension"/>
+    <attr name="speak_diameter_ripple" format="dimension"/>
+    <attr name="speak_center_img_speaking" format="reference"/>
+    <attr name="speak_center_img_def" format="reference"/>
+    <attr name="speak_circle_color_inner" format="color"/>
+    <attr name="speak_circle_color_outter" format="color"/>
+    <attr name="speak_img_size" format="dimension"/>
+    <attr name="speak_prompt_text_rec" format="string"/>
+    <attr name="speak_prompt_text_speak" format="string"/>
+    <attr name="speak_prompt_text_size" format="dimension"/>
+    <attr name="speak_prompt_text_color" format="color"/>
+    <attr name="speak_prompt_interval_text_to_imgs" format="dimension"/>
+    <attr name="speak_prompt_text_relative_to_imgs" format="boolean"/>
+    <attr name="speak_mode" format="enum">
+      <enum name="unpress" value="0"/>
+      <enum name="press" value="1"/>
+    </attr>
+  </declare-styleable>
+
+</resources>
